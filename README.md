@@ -1,0 +1,2 @@
+- **This amazing electric monster follows your mouse pointer!**
+- **Project done during my web development bootcamp.**
